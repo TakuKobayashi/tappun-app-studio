@@ -1,6 +1,6 @@
 {
   // Cloudflare Workers configuration for Static Assets
-  "name": "app-studio",
+  "name": "tappun-app-studio",
   "compatibility_date": "2024-01-01",
   "assets": {
     "directory": "./out",

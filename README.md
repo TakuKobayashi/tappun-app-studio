@@ -36,7 +36,7 @@ A vibrant, gaming-inspired portfolio website showcasing mobile apps, built with 
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd app-studio
+cd tappun-app-studio
 ```
 
 2. Install dependencies:
@@ -80,7 +80,7 @@ wrangler deploy
 ## 📁 Project Structure
 
 ```
-app-studio/
+tappun-app-studio/
 ├── app/
 │   ├── layout.tsx          # Root layout with SEO metadata
 │   ├── page.tsx            # Home page
